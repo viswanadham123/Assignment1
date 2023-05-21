@@ -1,0 +1,32 @@
+.main-div {
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   padding: 20px;
+   background-color: #f1f1f1;
+ }
+ 
+ .header1 {
+   margin-right: 15px;
+   text-decoration: none;
+   color: #333;
+ }
+ 
+ .header1:hover {
+   color: #007bff;
+   cursor: pointer;
+ }
+ 
+ .header1:last-child {
+   margin-right: 0;
+ }
+ 
+ p {
+   margin: 0;
+ }
+ 
+ p:hover {
+   color: #007bff;
+   cursor: pointer;
+ }
+ 

@@ -1,0 +1,43 @@
+.health-check-container {
+  text-align: center;
+  padding: 20px;
+}
+
+.health-check-container h1 {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.health-check-container div {
+  margin-bottom: 10px;
+}
+
+.health-check-container label {
+  display: block;
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+.health-check-container input {
+  padding: 5px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  width: 200px;
+}
+
+.calculate-button {
+  padding: 8px 16px;
+  font-size: 16px;
+  font-weight: bold;
+  background-color: #4caf50;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.result {
+  margin-top: 20px;
+  font-weight: bold;
+}
